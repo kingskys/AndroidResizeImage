@@ -1,0 +1,47 @@
+{
+	"img": "icon.png",
+	"dir": "",
+	"imagetype": "png",
+	"list": [
+		{
+			"size": 192,
+			"name": "icons/mipmap-xxxhdpi/ic_launcher_round.png"
+		},
+		{
+			"size": 192,
+			"name": "icons/mipmap-xxxhdpi/ic_launcher.png"
+		},
+		{
+			"size": 144,
+			"name": "icons/mipmap-xxhdpi/ic_launcher_round.png"
+		},
+		{
+			"size": 144,
+			"name": "icons/mipmap-xxhdpi/ic_launcher.png"
+		},
+		{
+			"size": 96,
+			"name": "icons/mipmap-xhdpi/ic_launcher_round.png"
+		},
+		{
+			"size": 96,
+			"name": "icons/mipmap-xhdpi/ic_launcher.png"
+		},
+		{
+			"size": 72,
+			"name": "icons/mipmap-hdpi/ic_launcher_round.png"
+		},
+		{
+			"size": 72,
+			"name": "icons/mipmap-hdpi/ic_launcher.png"
+		},
+		{
+			"size": 48,
+			"name": "icons/mipmap/ic_launcher_round.png"
+		},
+		{
+			"size": 48,
+			"name": "icons/mipmap/ic_launcher.png"
+		}
+	]
+}
